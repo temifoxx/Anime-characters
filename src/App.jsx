@@ -3,10 +3,11 @@ import { characters } from "./MarvelData";
 
 function App() {
   return (
-    <div className="mainBody">
+    <div className="mainBody" style={{backgroundImage: `url("https://i.pinimg.com/originals/91/f0/da/91f0dadd9b25544b0ea988568d6b1191.jpg")`, backgroundRepeat: "no-repeat", backgroundSize: "cover"}}>
       <div className="topHeader">
-        <h1 className="header">MARVELO</h1>
-        <input placeholder="Search a Marvel Character" className="topInput" />
+        <h1 className="header">........悪役........</h1>
+        <h1 className="header">Akuyaku</h1>
+        <input placeholder="Search an AKUYAKU" className="topInput" />
       </div>
       <div className="cardBody">
         {characters.map((data, index) => (
@@ -28,7 +29,7 @@ function App() {
                 </div>
                 <div className="duration">
                   <ins>◷</ins>
-                  <p>Home: {data.homeworld}</p>
+                  <p>Full Name: {data.homeworld}</p>
                 </div>
               </div>
               <hr />
