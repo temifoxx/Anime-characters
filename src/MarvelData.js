@@ -193,6 +193,28 @@ export const characters = [
     description:
       "Frieza is one of the strongest aliens in Dragon Ball Z. He enjoys invading other planets. Frieza is a very mean person who thinks he is very strong. Frieza is known for his ruthlessness and power. He is a mutant and a malignant narcissist. As the ruler of the Universe, he poses a significant threat to the Saiyan warriors and other inhabitants of the Dragon Ball world. Frieza's overconfidence and tendency to toy with opponents sometimes lead to his downfall. Additionally, his final form has certain durability limits. That's one too many weakness",
   },
+  //Tsukiyama
+  {
+    name: "Tsukiyama",
+    alias: "Gourmet",
+    abilities: ["Bladed kagune", "Genius level intellect", "Enhanced speed and strength"],
+    team: " Akuyaku",
+    img1: "https://i.pinimg.com/originals/39/67/4d/39674d96f8841fb29aadc29cf970986a.jpg",
+    homeworld: "Tsukiyama Shuu",
+    description:
+      "Tsukiyama Shuu is a ghoul with a refined and sophisticated demeanor, contrasting with the more predatory and primal nature of other ghouls. Tsukiyama is fascinated by the taste of unique and powerful ghouls, earning him the nickname Gourmet. Despite his eccentric and flamboyant personality, Tsukiyama is a skilled and dangerous opponent in combat."
+  },
+  //Frieza
+  {
+    name: "Frieza",
+    alias: "Lord Frieza",
+    abilities: ["Super strength", "Ki sense", "Hell Bazooka among others"],
+    team: " Akuyaku",
+    img1: "https://i.pinimg.com/originals/13/42/5c/13425c130d866de9b1afc7dfe2ce3f54.jpg",
+    homeworld: "Frieza",
+    description:
+      "Frieza is one of the strongest aliens in Dragon Ball Z. He enjoys invading other planets. Frieza is a very mean person who thinks he is very strong. Frieza is known for his ruthlessness and power. He is a mutant and a malignant narcissist. As the ruler of the Universe, he poses a significant threat to the Saiyan warriors and other inhabitants of the Dragon Ball world. Frieza's overconfidence and tendency to toy with opponents sometimes lead to his downfall. Additionally, his final form has certain durability limits. That's one too many weakness",
+  },
 ];
 
 console.log(characters);
