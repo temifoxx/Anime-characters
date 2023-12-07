@@ -206,14 +206,14 @@ export const characters = [
   },
   //Frieza
   {
-    name: "Frieza",
-    alias: "Lord Frieza",
-    abilities: ["Super strength", "Ki sense", "Hell Bazooka among others"],
+    name: "Estarossa",
+    alias: "Angel Of Death",
+    abilities: ["Full counter", "Hellblaze", "Rebellion"],
     team: " Akuyaku",
-    img1: "https://i.pinimg.com/originals/13/42/5c/13425c130d866de9b1afc7dfe2ce3f54.jpg",
-    homeworld: "Frieza",
+    img1: "https://i.pinimg.com/originals/4c/9a/c5/4c9ac5103a18dcfa523a508d9cd04545.jpg",
+    homeworld: "Estarossa Mael",
     description:
-      "Frieza is one of the strongest aliens in Dragon Ball Z. He enjoys invading other planets. Frieza is a very mean person who thinks he is very strong. Frieza is known for his ruthlessness and power. He is a mutant and a malignant narcissist. As the ruler of the Universe, he poses a significant threat to the Saiyan warriors and other inhabitants of the Dragon Ball world. Frieza's overconfidence and tendency to toy with opponents sometimes lead to his downfall. Additionally, his final form has certain durability limits. That's one too many weakness",
+      "Estarossa, the younger brother of Melodias and Zeldris's older brother, was the strongest archangel and a goddess-dominant hybrid. He possessed the commandment of love which bestowed him with immense power. He is a mysterious character with relationship to the demon king making him a mysterious character. we can also call him [Estarossa of love]",
   },
 ];
 
