@@ -3,7 +3,7 @@ import { characters } from "./MarvelData";
 
 function App() {
   return (
-    <div className="mainBody" style={{backgroundImage: `url("https://i.pinimg.com/originals/26/85/b1/2685b185f6a38016b4308d2540dad288.jpg")`, backgroundRepeat: "no-repeat", backgroundSize: "cover"}}>
+    <div className="mainBody" style={{backgroundImage: `url("https://i.pinimg.com/originals/93/01/06/9301063a615bfaea6e521645be21d0e5.png")`, backgroundRepeat: "no-repeat", backgroundSize: "cover"}}>
       <div className="topHeader">
         <h1 className="header">........悪役........</h1>
         <h1 className="header">Akuyaku</h1>

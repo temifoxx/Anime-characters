@@ -15,7 +15,7 @@
 
 .header {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  color: rgb(123, 41, 153);
+  color: rgb(24, 44, 136);
 }
 
 .topInput {
@@ -23,6 +23,7 @@
   width: 40vw;
   font-size: 1.0vw;
   font-family: cursive;
+  background-color: rgb(8, 0, 39);
 }
 
 .cardBody {
